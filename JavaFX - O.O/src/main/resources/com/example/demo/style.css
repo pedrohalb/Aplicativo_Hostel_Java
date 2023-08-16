@@ -1,0 +1,26 @@
+/* style.css */
+
+/* Estilo para o DatePicker */
+.date-picker {
+    -fx-font-size: 14px; /* Tamanho da fonte */
+    -fx-pref-width: 280px; /* Largura preferencial */
+    -fx-pref-height: 30px; /* Altura preferencial */
+}
+
+/* Estilo para os botões */
+.button {
+    -fx-font-size: 10px; /* Tamanho da fonte */
+    -fx-pref-width: 80px; /* Largura preferencial */
+    -fx-pref-height: 30px; /* Altura preferencial */
+    -fx-background-color: #2196F3; /* Cor de fundo do botão */
+    -fx-text-fill: white; /* Cor do texto do botão */
+    -fx-background-radius: 5px; /* Borda arredondada do botão */
+}
+
+.button:hover {
+    -fx-background-color: #1565C0; /* Cor de fundo do botão ao passar o mouse */
+}
+
+.button:pressed {
+    -fx-background-color: #0D47A1; /* Cor de fundo do botão quando pressionado */
+}

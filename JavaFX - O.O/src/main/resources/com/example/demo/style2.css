@@ -1,0 +1,18 @@
+/* style.css */
+
+.menu-button {
+    -fx-background-color: #2196F3; /* Cor de fundo do botão */
+    -fx-text-fill: white; /* Cor do texto do botão */
+    -fx-font-size: 10px; /* Tamanho da fonte */
+    -fx-pref-width: 150px; /* Largura preferencial do botão */
+    -fx-pref-height: 40px; /* Altura preferencial do botão */
+    -fx-background-radius: 5px; /* Borda arredondada do botão */
+}
+
+.menu-button:hover {
+    -fx-background-color: #1565C0; /* Cor de fundo do botão ao passar o mouse */
+}
+
+.menu-button:pressed {
+    -fx-background-color: #0D47A1; /* Cor de fundo do botão quando pressionado */
+}
