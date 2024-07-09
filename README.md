@@ -6,7 +6,7 @@
 <br><br>
 <img src="JavaFX - O.O/hostel.jpg" alt="Hostel Image" width="600">
 
->A simple application using java and javafx that simulates making reservations, adding guests and rooms in a hostel.
+>A simple application in java (POO) and javafx that simulates making reservations, adding guests and rooms in a hostel.
 
 ## 🛠️ Dependencies
 
