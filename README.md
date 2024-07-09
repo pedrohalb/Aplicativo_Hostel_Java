@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/pedrohalb/Aplicativo_Hotel_Java?style=for-the-badge)
 
 <br><br>
-<img src="desc/example-beans.png" alt="Beans Counting Sample Image" width="600">
+<img src="javaFX-O.O/hostel.jpg" alt="Hostel Image" width="600">
 
 >A simple application using java and javafx that simulates making reservations, adding guests and rooms in a hostel.
 
