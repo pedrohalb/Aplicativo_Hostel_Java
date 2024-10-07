@@ -33,4 +33,4 @@ To test the application, follow these steps:
 ## 🖥️ How It Works
 
 Using several different classes and controllers, each serving a purpose, guest, room, reservation, etc. They all integrate using JavaFX so that the application can be run
-on Main. In addition to HTML and CSS files that give structure and styling to the application, as well as data persistence using SQLite.
+on Main. In addition to FXML and CSS files that give structure and styling to the application, as well as data persistence using SQLite.
