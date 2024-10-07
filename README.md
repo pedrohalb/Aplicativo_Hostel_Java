@@ -12,7 +12,7 @@
 
 - Java
 - JavaFX
-- HTML
+- FXML
 - CSS
 - SQLite
 
